@@ -1,0 +1,1 @@
+# Blogger-Dynamic-View tempate
